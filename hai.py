@@ -1,1 +1,3 @@
-ddtgg
+print()
+
+print()
